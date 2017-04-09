@@ -9,6 +9,7 @@ public class MathTables {
 			{
 				math=j*i;
 				System.out.println("the tables are"+math  );
+				//TODO: print in "1 X 1 = 1" format
 				
 			}
 			

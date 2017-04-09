@@ -26,6 +26,7 @@ public class EvenOddSum {
     	 else
     	 {
     		 odd_sum=odd_sum+a[i];
+			 //TODO: This is a bug. It prints wrong sum every iteration. Correct sum will be printed on the last iteration.
     		 System.out.println("the odd no:"+odd_sum);
     		 
     	 }

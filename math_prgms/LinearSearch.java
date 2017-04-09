@@ -8,7 +8,9 @@ public class LinearSearch {
 			a[i]=i;
 			
 			if(a[i]==8)
+				//TODO: Once you find the element, no need to loop further iterations. Use break statement to exit loop.
 				System.out.println("element found");
+			
 			
 		}
 

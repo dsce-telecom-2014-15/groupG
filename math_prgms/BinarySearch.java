@@ -6,6 +6,8 @@ public class BinarySearch {
 		int []a=new int[10];
 		int n;
 		n=a.length/2;
+		
+		//TODO: This iplementation is not correct or is incomplete. Completed it.
 		for(int i=0;i<=9;i++){
 			a[i]=i;
 			if(a[n]<8){

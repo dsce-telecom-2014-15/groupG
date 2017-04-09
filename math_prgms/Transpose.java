@@ -7,6 +7,7 @@ public class Transpose {
 		int [][]a=new int [4][4];
 		for(i=0;i<4;i++)
 		{
+			//TODO: This implementation is not complete. Please work on it.
 			for(j=0;j<4;j++)
 			{a[i][j]=i;
 			
